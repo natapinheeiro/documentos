@@ -1,6 +1,8 @@
-.ocultar:{
+.ocultar{
     display: none;
 }
 .aparecer{
     display: block;
 }
+.bg {
+	background-color: #2c3e50
